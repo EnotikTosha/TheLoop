@@ -991,6 +991,9 @@
 }
 
 @media (max-width: 400px){
+    .header_menu{
+        width: 50vw;
+    }
     .header_menu-link{
         font-size: 10px;
     }
@@ -1192,9 +1195,7 @@
 
 
 @media (max-width: 350px){
-    .header_menu{
-        width: 50vw;
-    }
+   
     .sub_menu-list a{
         font-size: 8px;
     }
