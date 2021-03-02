@@ -378,7 +378,7 @@
 
     .sub_sub_menu-list>li{
         padding-right: 0;
-        padding-left: 10px;
+        margin-left: 10px;
     }
 
     .sub_sub_menu-list a{
